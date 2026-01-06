@@ -1,5 +1,9 @@
 ## Hi, I'm Ashin Prakashan
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashinprakashan/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
+
 
 <!--
 **Ashin-Prakashan/Ashin-Prakashan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
